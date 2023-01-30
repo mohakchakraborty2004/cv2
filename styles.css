@@ -1,0 +1,173 @@
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    font-family: 'Nova Mono', monospace;
+    line-height: 2;
+}
+
+.intro {
+
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+}
+
+h2 {
+    font-family: 'Nova Mono', monospace;
+    color:  #66BFBF;
+    font-size: 2rem;
+}
+
+.mc {
+    font-family: 'Nova Mono', monospace;
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+
+
+h3 {
+    font-family: 'Nova Mono', monospace;
+    color: #11999E;
+}
+
+
+
+.abc {
+    padding-top: 100px;
+    background-color: rgb(197, 255, 255);
+    margin: 0;
+    position: relative;
+}
+
+.middle-container {
+    margin-top: 50px;
+}
+
+
+
+
+.btmcld {
+    position: absolute;
+}
+
+.tpcld {
+    position: absolute;
+    right: 300px;
+     top: 50px;
+}
+
+h1 {
+    margin-top: 3.125rem;  
+    font-size: 4.125rem;
+    margin-bottom: 0;
+    color:  #66BFBF;
+    font-family: 'Over the Rainbow', cursive;
+    line-height: 2;
+}
+
+
+
+.skill-row {
+      
+    width: 50%; 
+    margin: 100px auto;
+    text-align: left;
+
+}
+
+.comp {
+    width: 25%;
+    float: right;
+    margin: left;
+}
+
+.mohak {
+    width: 15%;
+    margin-top: 20px;
+}
+
+.Art {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 5%;
+    border-color: #F7F5EB;
+    border-width: 8px;
+    margin: 80px auto;
+   }
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 50px 0 0;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.cr {
+    margin-bottom: 0;
+    color: #F7F5EB;
+}
+
+
+
+.outro {
+    width: 50%;
+    margin: 40px auto;
+}
+
+
+
+
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Nova Mono', monospace;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 50px auto;
+  }
+  
+  .btn:hover {
+    background:  #30e3cb;
+    background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+
+  a {
+    color: #11999E;
+    text-decoration: none;
+    margin: 20px 40px;
+    font-family: 'Nova Mono', monospace;
+  }
+
+  a:hover {
+        color: #F7F5EB;
+  }
